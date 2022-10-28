@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Matvey
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning in nine class
-- 💞️  i am not looking to colloborate on, 
-I am looking for experience in programming to become a pro in the future
+- 💞️ I am looking for experience in programming to become a pro in the future
 - 📫 you can contact me via social networks or by phone number 
 
 <!---
